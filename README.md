@@ -75,9 +75,28 @@ vncpassword
 
 # Extra Tips:
 
-Termux storage permission (termux-setup-storage) දාන්න, files manage කරන්න.
+• Termux storage permission (termux-setup-storage) දාන්න, files manage කරන්න.
 
-GUI එන විට performance වැඩි කරන්න නම් animations disable කරන්න.
+• GUI එන විට performance වැඩි කරන්න නම් animations disable කරන්න.
 
-Internal storage free space එක always 1GB+ තියන එක හොඳයි temporary files වලට.
+• Internal storage free space එක always 1GB+ තියන එක හොඳයි temporary files වලට.
+
+
+ඔයාගේ device එකේ:
+
+RAM: 2 GB
+
+Storage: 16 GB
+
+Run වෙයිද?
+
+ඇතිවෙන්න පුළුවන් ගැටලු:
+
+• RAM 2 GB නිසා heavy multitasking වලදි slow වෙනවා.
+
+• GUI animations හෝ multiple apps open කරාම lag වීම.
+
+• Storage 16 GB තියෙනත්, Android system files already use ~6–10 GB, so Ubuntu+XFCE+updates වලට අවශ්‍ය free space ~6–8 GB තිබිය යුතුයි.
+
+
 
