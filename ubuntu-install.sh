@@ -45,7 +45,7 @@ echo " ╚═════╝ ╚══════╝╚══════╝╚
 
 echo -e "${GREEN}                                > DEVALOPER CYBER BLACK LION! <<${NC}"
 
-termux-open-url https://chat.whatsapp.com/HlH3EfeFlar5Fy1YCieMKJ
+termux-open-url https://chat.whatsapp.com/Cz5cMCMKXpFKCHE2q6yRG3
 
 #!/bin/bash
 
