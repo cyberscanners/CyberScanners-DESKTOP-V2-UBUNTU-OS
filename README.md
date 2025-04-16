@@ -20,6 +20,9 @@ $ bash gui-setup.sh
 
 $ vncserver :1
 
-විශේශත්වය.
+# විශේශත්වය.
 
 • ඔයාට Python, Node.js, Bot scripts, Telegram bots, Discord bots, CLI tools හැම එකම run කරන්න පුළුවන්.
+
+# VNC PASSWORD
+
