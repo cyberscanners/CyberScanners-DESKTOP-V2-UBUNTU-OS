@@ -48,6 +48,9 @@ vncpassword
 
 $ vncserver -kill :1 && pkill xrdp
 
+# Download VNC Viewer : Remote Desktop App.
+
+https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
 
 මෙම Termux Ubuntu GUI desktop setup එක සාර්ථකව ක්‍රියාත්මක වීමට අවශ්‍ය වන RAM සහ Storage අවශ්‍යතා:
 
