@@ -1,3 +1,13 @@
 # CyberScanners-DESKTOP-V2-UBUNTU-OS
 
 # 𝐂𝐘𝐁𝐄𝐑 𝐒𝐂𝐀𝐍𝐍𝐄𝐑𝐒 𝐇𝐀𝐂𝐊𝐈𝐍𝐆 𝐓𝐄𝐑𝐌𝐔𝐗 𝐔𝐁𝐔𝐍𝐓𝐔 𝐎𝐒 𝐃𝐄𝐒𝐊𝐓𝐎𝐏.
+
+TERMUX INSTALL.
+
+$ pkg update && pkg upgrade
+
+$ pkg install git
+
+$ git clone https://github.com/cyberscanners/CyberScanners-DESKTOP-V2-UBUNTU-OS.git
+
+$ 
