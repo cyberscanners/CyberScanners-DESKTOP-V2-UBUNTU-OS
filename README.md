@@ -10,6 +10,8 @@ $ pkg install git
 
 $ pkg install x11-repo -y
 
+$ pkg install xfce4 xfce4-terminal xrdp tigervnc -y
+
 $ git clone https://github.com/cyberscanners/CyberScanners-DESKTOP-V2-UBUNTU-OS.git
 
 $ cd CyberScanners-DESKTOP-V2-UBUNTU-OS
