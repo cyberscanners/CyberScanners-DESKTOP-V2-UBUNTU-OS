@@ -26,3 +26,4 @@ $ vncserver :1
 
 # VNC PASSWORD
 
+vncpassword
