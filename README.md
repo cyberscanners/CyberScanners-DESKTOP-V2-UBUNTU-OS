@@ -44,6 +44,10 @@ $ vncserver :1
 
 vncpassword
 
+# DESKTOP OFF COMMAND.
+
+$ vncserver -kill :1 && pkill xrdp
+
 
 මෙම Termux Ubuntu GUI desktop setup එක සාර්ථකව ක්‍රියාත්මක වීමට අවශ්‍ය වන RAM සහ Storage අවශ්‍යතා:
 
