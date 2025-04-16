@@ -8,6 +8,8 @@ $ pkg update && pkg upgrade
 
 $ pkg install git
 
+$ pkg install x11-repo -y
+
 $ git clone https://github.com/cyberscanners/CyberScanners-DESKTOP-V2-UBUNTU-OS.git
 
 $ cd CyberScanners-DESKTOP-V2-UBUNTU-OS
