@@ -10,4 +10,12 @@ $ pkg install git
 
 $ git clone https://github.com/cyberscanners/CyberScanners-DESKTOP-V2-UBUNTU-OS.git
 
-$ 
+$ cd CyberScanners-DESKTOP-V2-UBUNTU-OS
+
+$ bash ubuntu-install.sh
+
+$ bash login-ubuntu.sh
+
+$ bash gui-setup.sh
+
+$ vncserver :1
