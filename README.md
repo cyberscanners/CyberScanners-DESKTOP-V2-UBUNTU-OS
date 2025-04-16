@@ -22,6 +22,8 @@ $ bash login-ubuntu.sh
 
 $ bash gui-setup.sh
 
+$ neofetch
+
 $ vncserver :1
 
 1. Termux තුළ Ubuntu install කරනවා.
