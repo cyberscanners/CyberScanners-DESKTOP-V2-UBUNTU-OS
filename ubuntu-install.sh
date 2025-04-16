@@ -112,7 +112,7 @@ chmod +x "$PROOT_DIR/root/gui-setup.sh"
 cat >> "$PROOT_DIR/root/.bashrc" << 'EOF'
 
 if [ -f /root/gui-setup.sh ]; then
-  echo -e "\e[32mTo complete your GUI Desktop setup, run: bash ~/gui-setup.sh\e[0m"
+  echo -e "\e[32mTo complete your CYBER SCANNERS GUI Desktop setup, run.\e[0m"
 fi
 EOF
 
