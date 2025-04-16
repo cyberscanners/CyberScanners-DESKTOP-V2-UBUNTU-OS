@@ -45,7 +45,7 @@ $ vncserver :1
 vncpassword
 
 
-# මෙම Termux Ubuntu GUI desktop setup එක සාර්ථකව ක්‍රියාත්මක වීමට අවශ්‍ය වන RAM සහ Storage අවශ්‍යතා:
+මෙම Termux Ubuntu GUI desktop setup එක සාර්ථකව ක්‍රියාත්මක වීමට අවශ්‍ය වන RAM සහ Storage අවශ්‍යතා:
 
 1. RAM අවශ්‍යතා:
 
