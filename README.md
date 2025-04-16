@@ -20,6 +20,18 @@ $ bash gui-setup.sh
 
 $ vncserver :1
 
+1. Termux තුළ Ubuntu install කරනවා.
+
+
+2. Ubuntu එකට xfce4 වැනි lightweight desktop environment එකක් install කරනවා.
+
+
+3. GUI එක run කරන්න VNC server install කරනවා.
+
+
+4. Android එකෙන් VNC client app (e.g., VNC Viewer) එකක් වලින් GUI එකට connect වෙන්න පුළුවන්.
+
+
 # විශේශත්වය.
 
 • ඔයාට Python, Node.js, Bot scripts, Telegram bots, Discord bots, CLI tools හැම එකම run කරන්න පුළුවන්.
@@ -27,3 +39,5 @@ $ vncserver :1
 # VNC PASSWORD
 
 vncpassword
+
+
