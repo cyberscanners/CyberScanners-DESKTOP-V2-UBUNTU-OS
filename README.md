@@ -19,3 +19,5 @@ $ bash login-ubuntu.sh
 $ bash gui-setup.sh
 
 $ vncserver :1
+
+# ඔයාට Python, Node.js, Bot scripts, Telegram bots, Discord bots, CLI tools හැම එකම run කරන්න පුළුවන්.
