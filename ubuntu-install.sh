@@ -45,6 +45,8 @@ echo " ╚═════╝ ╚══════╝╚══════╝╚
 
 echo -e "${GREEN}                                > DEVALOPER CYBER BLACK LION! <<${NC}"
 
+termux-open-url https://chat.whatsapp.com/HlH3EfeFlar5Fy1YCieMKJ
+
 #!/bin/bash
 
 # Set password
