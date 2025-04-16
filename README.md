@@ -45,3 +45,39 @@ $ vncserver :1
 vncpassword
 
 
+# මෙම Termux Ubuntu GUI desktop setup එක සාර්ථකව ක්‍රියාත්මක වීමට අවශ්‍ය වන RAM සහ Storage අවශ්‍යතා:
+
+1. RAM අවශ්‍යතා:
+
+• Ubuntu GUI සහ XFCE Desktop යන දෙකම ධාවනය කිරීමට අවම RAM අවශ්‍යතාවය:
+
+අවම: 2 GB
+
+තවත් ස්ථාවරව (Recommended): 3 GB හෝ වැඩි RAM
+
+
+• Low-end devices වල 1.5 GB RAM ක් තියෙනවා නම්, GUI lag සහ crash වීමේ හැකියාව තියෙනවා.
+
+2. Storage (Internal Storage) අවශ්‍යතා:
+
+• Ubuntu root filesystem (~2.5 GB)
+
+• XFCE4 Desktop + VNC (~1.5–2 GB)
+
+• Extra packages, caches, logs, configs
+
+
+3. සම්පූර්ණ අවශ්‍ය storage එක:
+
+අවම: 5 GB
+
+නිවැරදිව වැඩ කරන්න: 6–8 GB+
+
+# Extra Tips:
+
+Termux storage permission (termux-setup-storage) දාන්න, files manage කරන්න.
+
+GUI එන විට performance වැඩි කරන්න නම් animations disable කරන්න.
+
+Internal storage free space එක always 1GB+ තියන එක හොඳයි temporary files වලට.
+
